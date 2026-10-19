@@ -4,7 +4,7 @@ Nome oficial da solução:** Sistema Inteligente de Gestão e Monitoramento de C
 
 Nome dos Integrantes: Leonardo Santos/Muriel Masseo/Henrique Olivera/Rodrigo Yudi/Arthur Bastos
 
-Ling dos Gits: https://github.com/HenriqOlive // https://github.com/arthurbastos-02 // https://github.com/zeolihn
+Ling dos Gits: https://github.com/HenriqOlive // https://github.com/arthurbastos-02 // https://github.com/zeolihn // https://github.com/rodrigoyudisec
 
 ##  Descrição
 
